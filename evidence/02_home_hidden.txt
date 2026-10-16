@@ -1,0 +1,22 @@
+total 84
+drwxr-x--- 15 saraajmal30 saraajmal30 4096 Oct 16 04:17 .
+drwxr-xr-x  3 root        root        4096 Sep 20 19:04 ..
+-rw-------  1 saraajmal30 saraajmal30 1247 Oct 10 16:39 .bash_history
+-rw-r--r--  1 saraajmal30 saraajmal30  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 saraajmal30 saraajmal30 3771 Feb 13  2026 .bashrc
+drwx------  2 saraajmal30 saraajmal30 4096 Sep 20 19:58 .cache
+drwxrwxr-x  3 saraajmal30 saraajmal30 4096 Oct  9 10:39 .docker
+-rw-rw-r--  1 saraajmal30 saraajmal30  188 Oct 16 04:17 .gitconfig
+-rw-------  1 saraajmal30 saraajmal30   20 Oct  9 10:38 .lesshst
+drwx------  3 saraajmal30 saraajmal30 4096 Oct 10 15:17 .local
+-rw-r--r--  1 saraajmal30 saraajmal30  807 Feb 13  2026 .profile
+drwx------  2 saraajmal30 saraajmal30 4096 Oct 16 04:09 .ssh
+drwxrwxr-x  3 saraajmal30 saraajmal30 4096 Oct  9 08:36 Assignment
+drwxrwxr-x  3 saraajmal30 saraajmal30 4096 Oct 10 14:38 Assignment01
+drwxrwxr-x  5 saraajmal30 saraajmal30 4096 Oct 10 11:07 CC
+drwxrwxr-x  4 saraajmal30 saraajmal30 4096 Oct  9 10:14 Gitea
+drwxrwxr-x  2 saraajmal30 saraajmal30 4096 Oct 16 04:14 evidence
+drwxrwxr-x  5 saraajmal30 saraajmal30 4096 Oct 16 04:17 lab05-linux
+drwxrwxr-x  2 saraajmal30 saraajmal30 4096 Sep 21 14:46 mylab
+drwxrwxr-x  2 saraajmal30 saraajmal30 4096 Oct 16 04:14 notes
+drwxrwxr-x  3 saraajmal30 saraajmal30 4096 Oct 10 15:17 saraajmal30.github.io
